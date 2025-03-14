@@ -10,7 +10,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/CSmith47/OWL_Stats_For_Success
-    - text: Article
+    - icon: file-text-fill
+      text: Article
       url: "https://medium.com/@christian6251/the-overwatch-league-statistics-for-success-5b32782d67ee"
 
 toc: false

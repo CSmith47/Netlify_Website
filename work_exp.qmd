@@ -1,9 +1,20 @@
 ---
 title: "Work Experience"
+toc: false
+listing:
+  - id: project-listing
+    contents: 
+      - "/work_exp/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    type: grid
+    fields: 
+      - title
+      - image
+      - subtitle
+    categories: false
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+:::project-listing
+:::

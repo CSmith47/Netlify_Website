@@ -1,0 +1,16 @@
+---
+title: "Escape Room Game Host"
+format: html
+image: images/exodus.png
+about:
+  template: marquee
+  image: images/exodus.png
+
+toc: false
+---
+### **Exodus Escape Room — Game Host**
+*December 2020 – August 2022*
+
+Instruct students in advanced mathematical concepts, fostering both abstract and concrete reasoning skills to enhance their problem-solving abilities. Design and deliver structured lessons that integrate logical thinking, analytical strategies, and the application of prior knowledge to solve complex mathematical challenges.
+
+Promote intellectual growth by encouraging critical thinking and a deep understanding of mathematical principles. Create an engaging learning environment that inspires curiosity, builds confidence, and supports academic excellence. Collaborate with students to develop effective study habits and cultivate a lifelong appreciation for mathematics.

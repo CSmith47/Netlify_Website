@@ -10,7 +10,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/CSmith47/Reimagining-Reviews-With-Sentence-Transformers
-    - text: Article
+    - icon: file-text-fill
+      text: Article
       url: "https://medium.com/python-in-plain-english/reimagining-reviews-with-sentence-transformers-9103c6988f62"
 
 toc: false

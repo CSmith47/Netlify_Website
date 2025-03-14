@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/work_exp.html",
+    "items": [
+      "/work_exp/work_1.html",
+      "/work_exp/work_2.html",
+      "/work_exp/work_3.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/projects/project_1.html",

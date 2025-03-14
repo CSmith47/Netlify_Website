@@ -1,0 +1,16 @@
+---
+title: "Data Analyst"
+format: html
+image: images/edwards.jpg
+about:
+  template: marquee
+  image: images/edwards.jpg
+
+toc: false
+---
+### **Edwards Lifesciences - Data Analyst (Intern)**
+*June 2024 – September 2024*
+
+Instruct students in advanced mathematical concepts, fostering both abstract and concrete reasoning skills to enhance their problem-solving abilities. Design and deliver structured lessons that integrate logical thinking, analytical strategies, and the application of prior knowledge to solve complex mathematical challenges.
+
+Promote intellectual growth by encouraging critical thinking and a deep understanding of mathematical principles. Create an engaging learning environment that inspires curiosity, builds confidence, and supports academic excellence. Collaborate with students to develop effective study habits and cultivate a lifelong appreciation for mathematics.

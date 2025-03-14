@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Christian Smith",
-    "section": "",
-    "text": "FIX RESUME BUTTON\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTesting for new material"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "work_exp.html",
     "href": "work_exp.html",
     "title": "Work Experience",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Data Analyst\n\n\n\n\n\n\n\n\n\n\n\n\n\nApple Certified Technician\n\n\n\n\n\n\n\n\n\n\n\n\n\nEscape Room Game Host\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
+    "objectID": "work_exp/work_2.html",
+    "href": "work_exp/work_2.html",
+    "title": "Apple Certified Technician",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "UCLA Store — Apple Certified Technician\nAugust 2023 – June 2024, September 2024 - Present\nInstruct students in advanced mathematical concepts, fostering both abstract and concrete reasoning skills to enhance their problem-solving abilities. Design and deliver structured lessons that integrate logical thinking, analytical strategies, and the application of prior knowledge to solve complex mathematical challenges.\nPromote intellectual growth by encouraging critical thinking and a deep understanding of mathematical principles. Create an engaging learning environment that inspires curiosity, builds confidence, and supports academic excellence. Collaborate with students to develop effective study habits and cultivate a lifelong appreciation for mathematics."
   },
   {
     "objectID": "projects.html",
@@ -35,16 +21,44 @@
     "text": "Reimagining Reviews With Sentence Transformers\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Overwatch League: Statistics For Success\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Role of Sports Statistics in Evaluating College Quarterbacks\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/project_1.html",
-    "href": "projects/project_1.html",
-    "title": "Reimagining Reviews With Sentence Transformers",
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "The Overwatch League: Statistics For Success",
     "section": "",
     "text": "Independent Research supervised by UCLA Faculty\ndata analytics, October 2024 - current\n\n\nReseasrch Title:\n\n\nAI vs. Legal Experts: Speed and Accuracy in Case Analysis\n\n\nResearch Overview\nI am conducting independent research under the mentorship of UCLA faculty, Dr. Vivian Lew, in collaboration with Tranquility-AI Cybersecurity International and Professor Marta D’Elia. My work explores the transformative potential of artificial intelligence in the analysis of legal documents, with a focus on advancing efficiency and accuracy in the fields of criminal justice and public safety.\nThe research investigates the comparative performance of AI systems and legal professionals in processing complex case materials. Specifically, it examines differences in speed, comprehension, and accuracy when reviewing legal documents and answering associated questions. This includes assessing whether AI can achieve similar or superior levels of performance compared to human expertise, thereby identifying areas where AI could support or complement traditional legal workflows.\nBeyond performance metrics, the project addresses broader considerations, such as the ethical and practical implications of integrating AI into legal practices. Key challenges include ensuring fairness and transparency in AI decision-making, maintaining the confidentiality of sensitive information, and understanding how technology can be optimally utilized to support legal professionals without replacing their nuanced judgment and expertise.\nThis research contributes to the growing intersection of technology, data analytics, and the legal profession by offering insights into how AI can streamline time-intensive processes, enhance productivity, and improve accessibility to justice. Ultimately, the findings aim to inform policy development and guide the adoption of AI-driven solutions in legal and public safety domains, fostering innovation while upholding the principles of fairness and accuracy."
   },
   {
-    "objectID": "projects/project_2.html",
-    "href": "projects/project_2.html",
-    "title": "The Overwatch League: Statistics For Success",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Christian Smith",
+    "section": "",
+    "text": "FIX RESUME BUTTON\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTesting for new material"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "University of California, Los Angeles (UCLA)",
+    "section": "",
+    "text": "UCLA Stats 140XP: Practice of Statistical Consulting"
+  },
+  {
+    "objectID": "education.html#current-courses",
+    "href": "education.html#current-courses",
+    "title": "University of California, Los Angeles (UCLA)",
+    "section": "",
+    "text": "UCLA Stats 140XP: Practice of Statistical Consulting"
+  },
+  {
+    "objectID": "education.html#previous-courses",
+    "href": "education.html#previous-courses",
+    "title": "University of California, Los Angeles (UCLA)",
+    "section": "Previous Courses",
+    "text": "Previous Courses\n\nUniversity of California, Los Angeles\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nSTATS 10\nIntroduction to Statistical Reasoning\nFall 2022, Winter 2023, Spring 2023\n\n\nSTATS 13\nIntroduction to Statistical Methods for Life\nand Health Sciences\nSummer 2022, Fall 2023\n\n\nSTATS 20\nIntroduction to Statistical Programming with R\nSummer 2024\n\n\nSTATS 21\nPython and Other Technologies for Data Science\nSpring 2023\n\n\nSTATS 100B\nIntroduction to Mathematical Statistics\nSummer 2023\n\n\nSTATS 100C\nLinear Models\nSummer 2023\n\n\nSTATS 140XP/ 141XP\nPractice of Statistical Consulting\nWinter 2024,Spring 2024, Fall 2024\n\n\n\n\n\nCalifornia State University, Fullerton\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nMath 115\nCollege Algebra\nFall 2019\n\n\nMath 120\nElementary Statistics\nSpring 2020, Fall 2020, Fall 2024\n\n\nMath 338\nStatistics Applied to Natural Science\nSpring 2021, Fall 2024"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Reimagining Reviews With Sentence Transformers",
     "section": "",
     "text": "Independent Research supervised by UCLA Faculty\ndata analytics, October 2024 - current\n\n\nReseasrch Title:\n\n\nAI vs. Legal Experts: Speed and Accuracy in Case Analysis\n\n\nResearch Overview\nI am conducting independent research under the mentorship of UCLA faculty, Dr. Vivian Lew, in collaboration with Tranquility-AI Cybersecurity International and Professor Marta D’Elia. My work explores the transformative potential of artificial intelligence in the analysis of legal documents, with a focus on advancing efficiency and accuracy in the fields of criminal justice and public safety.\nThe research investigates the comparative performance of AI systems and legal professionals in processing complex case materials. Specifically, it examines differences in speed, comprehension, and accuracy when reviewing legal documents and answering associated questions. This includes assessing whether AI can achieve similar or superior levels of performance compared to human expertise, thereby identifying areas where AI could support or complement traditional legal workflows.\nBeyond performance metrics, the project addresses broader considerations, such as the ethical and practical implications of integrating AI into legal practices. Key challenges include ensuring fairness and transparency in AI decision-making, maintaining the confidentiality of sensitive information, and understanding how technology can be optimally utilized to support legal professionals without replacing their nuanced judgment and expertise.\nThis research contributes to the growing intersection of technology, data analytics, and the legal profession by offering insights into how AI can streamline time-intensive processes, enhance productivity, and improve accessibility to justice. Ultimately, the findings aim to inform policy development and guide the adoption of AI-driven solutions in legal and public safety domains, fostering innovation while upholding the principles of fairness and accuracy."
   },
@@ -54,5 +68,19 @@
     "title": "The Role of Sports Statistics in Evaluating College Quarterbacks",
     "section": "",
     "text": "Independent Research supervised by UCLA Faculty\ndata analytics, October 2024 - current\n\n\nReseasrch Title:\n\n\nAI vs. Legal Experts: Speed and Accuracy in Case Analysis\n\n\nResearch Overview\nI am conducting independent research under the mentorship of UCLA faculty, Dr. Vivian Lew, in collaboration with Tranquility-AI Cybersecurity International and Professor Marta D’Elia. My work explores the transformative potential of artificial intelligence in the analysis of legal documents, with a focus on advancing efficiency and accuracy in the fields of criminal justice and public safety.\nThe research investigates the comparative performance of AI systems and legal professionals in processing complex case materials. Specifically, it examines differences in speed, comprehension, and accuracy when reviewing legal documents and answering associated questions. This includes assessing whether AI can achieve similar or superior levels of performance compared to human expertise, thereby identifying areas where AI could support or complement traditional legal workflows.\nBeyond performance metrics, the project addresses broader considerations, such as the ethical and practical implications of integrating AI into legal practices. Key challenges include ensuring fairness and transparency in AI decision-making, maintaining the confidentiality of sensitive information, and understanding how technology can be optimally utilized to support legal professionals without replacing their nuanced judgment and expertise.\nThis research contributes to the growing intersection of technology, data analytics, and the legal profession by offering insights into how AI can streamline time-intensive processes, enhance productivity, and improve accessibility to justice. Ultimately, the findings aim to inform policy development and guide the adoption of AI-driven solutions in legal and public safety domains, fostering innovation while upholding the principles of fairness and accuracy."
+  },
+  {
+    "objectID": "work_exp/work_1.html",
+    "href": "work_exp/work_1.html",
+    "title": "Data Analyst",
+    "section": "",
+    "text": "Edwards Lifesciences - Data Analyst (Intern)\nJune 2024 – September 2024\nInstruct students in advanced mathematical concepts, fostering both abstract and concrete reasoning skills to enhance their problem-solving abilities. Design and deliver structured lessons that integrate logical thinking, analytical strategies, and the application of prior knowledge to solve complex mathematical challenges.\nPromote intellectual growth by encouraging critical thinking and a deep understanding of mathematical principles. Create an engaging learning environment that inspires curiosity, builds confidence, and supports academic excellence. Collaborate with students to develop effective study habits and cultivate a lifelong appreciation for mathematics."
+  },
+  {
+    "objectID": "work_exp/work_3.html",
+    "href": "work_exp/work_3.html",
+    "title": "Escape Room Game Host",
+    "section": "",
+    "text": "Exodus Escape Room — Game Host\nDecember 2020 – August 2022\nInstruct students in advanced mathematical concepts, fostering both abstract and concrete reasoning skills to enhance their problem-solving abilities. Design and deliver structured lessons that integrate logical thinking, analytical strategies, and the application of prior knowledge to solve complex mathematical challenges.\nPromote intellectual growth by encouraging critical thinking and a deep understanding of mathematical principles. Create an engaging learning environment that inspires curiosity, builds confidence, and supports academic excellence. Collaborate with students to develop effective study habits and cultivate a lifelong appreciation for mathematics."
   }
 ]

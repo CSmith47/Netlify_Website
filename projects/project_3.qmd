@@ -7,7 +7,8 @@ about:
   template: jolla
   image: images/football.png
   links: 
-    - text: Poster
+    - icon: file-richtext-fill
+      text: Poster
       url: "Stats_140XP_Final_Poster.pdf"
 
 toc: false
