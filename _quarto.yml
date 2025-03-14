@@ -7,7 +7,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: work_exp.qmd
+        text: Work Experience
+      - href: projects.qmd
+        text: Projects
+      - href: education.qmd
+        text: Education
 
 format:
   html:

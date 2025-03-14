@@ -13,9 +13,11 @@ about:
       url: "mailto:christian6251@gmail.com"
       icon: inbox-fill
     - text: Resume
-      url: "Resume_CSmith.pdf"
+      url: "resume.pdf"
 toc: false
 ---
+
+FIX RESUME BUTTON
 
 This is a Quarto website.
 
