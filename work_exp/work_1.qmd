@@ -15,7 +15,7 @@ toc: false
 ---
 ### What is Edwards Lifesciences?
 
-With a main headquarters in Irvine, California, Edwards Lifesciences is a global company with one, simple goal, to extend the lives of others. Edwards specializes in technology relating to the structure of the heart, primarily heart valves, which help those with a failing heart, or other heart issues, live longer. With such an important purpose to aid the lives of other fighting cardiovascular diseases, I was thrilled to have the opportunity to assist in their goals. 
+With a main headquarters in Irvine, California, Edwards Lifesciences is a global company with one, simple goal, to extend the lives of others. Edwards specializes in technology relating to the structure of the heart, primarily heart valves, which help those with a failing heart, or other heart issues, live longer. With such an important purpose to aid the lives of others fighting cardiovascular diseases, I was thrilled to have the opportunity to assist in their goals. As a data analyst at Edwards, I worked primarily in R to aid with data processing between their various clinical studies, and to locate discrepancies in the data. I was able to use my project experience and UCLA background to perform my job well. 
 
 ### My Achievements at Edwards
 

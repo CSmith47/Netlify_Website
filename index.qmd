@@ -21,11 +21,11 @@ toc: false
 
 ## A Little About Myself
 
-My name is Christian Smith, and I am an upcoming graduate of the UCLA Statistics and Data Science program. I am passionate about leveraging data-driven insights to solve complex problems, particularly in sports analytics, gaming, and human psychology. My projects reflect these interests, as I believe that working with data I am deeply engaged with leads to the most impactful results.
+My name is Christian Smith, and I am an upcoming graduate of the UCLA Statistics and Data Science program. I am passionate about leveraging data to solve complex problems, particularly in sports analytics, gaming, and human psychology. My projects reflect these interests, as I believe that working with data I am deeply engaged with leads to the best results.
 
 I specialize in applying machine learning models to extract insights and make predictions from large datasets, often requiring extensive data cleaning and preprocessing. With a strong foundation in statistical analysis, I enjoy transforming raw data to be more interpretable, and to seek model improvement.
 
-As I transition into the workforce, I am seeking opportunities where I can contribute to data-driven teams, applying my analytical skills to create meaningful industry impact. With a strong aptitude for leadership, adaptability, and collaboration, I am eager to bring my expertise in statistical methods and machine learning to an organization that values innovation and data-driven decision-making.
+As I transition into the workforce, I am seeking opportunities where I can contribute to motivated teams, applying my analytical skills to create meaningful industry impact. With a strong aptitude for leadership, adaptability, and collaboration, I am eager to bring my expertise in statistical methods and machine learning to an organization which can find value in my contributions.
 
 ## Brief Overview
 
