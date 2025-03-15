@@ -32,28 +32,49 @@
     "href": "index.html",
     "title": "Christian Smith",
     "section": "",
-    "text": "FIX RESUME BUTTON\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTesting for new material"
+    "text": "My name is Christian Smith, and I am an upcoming graduate of the UCLA Statistics and Data Science program. I am passionate about leveraging data-driven insights to solve complex problems, particularly in sports analytics, gaming, and human psychology. My projects reflect these interests, as I believe that working with data I am deeply engaged with leads to the most impactful results.\nI specialize in applying machine learning models to extract insights and make predictions from large datasets, often requiring extensive data cleaning and preprocessing. With a strong foundation in statistical analysis, I enjoy transforming raw data to be more interpretable, and to seek model improvement.\nAs I transition into the workforce, I am seeking opportunities where I can contribute to data-driven teams, applying my analytical skills to create meaningful industry impact. With a strong aptitude for leadership, adaptability, and collaboration, I am eager to bring my expertise in statistical methods and machine learning to an organization that values innovation and data-driven decision-making."
+  },
+  {
+    "objectID": "index.html#a-little-about-myself",
+    "href": "index.html#a-little-about-myself",
+    "title": "Christian Smith",
+    "section": "",
+    "text": "My name is Christian Smith, and I am an upcoming graduate of the UCLA Statistics and Data Science program. I am passionate about leveraging data-driven insights to solve complex problems, particularly in sports analytics, gaming, and human psychology. My projects reflect these interests, as I believe that working with data I am deeply engaged with leads to the most impactful results.\nI specialize in applying machine learning models to extract insights and make predictions from large datasets, often requiring extensive data cleaning and preprocessing. With a strong foundation in statistical analysis, I enjoy transforming raw data to be more interpretable, and to seek model improvement.\nAs I transition into the workforce, I am seeking opportunities where I can contribute to data-driven teams, applying my analytical skills to create meaningful industry impact. With a strong aptitude for leadership, adaptability, and collaboration, I am eager to bring my expertise in statistical methods and machine learning to an organization that values innovation and data-driven decision-making."
+  },
+  {
+    "objectID": "index.html#brief-overview",
+    "href": "index.html#brief-overview",
+    "title": "Christian Smith",
+    "section": "Brief Overview",
+    "text": "Brief Overview\nIf you would like to learn more about my work experience, projects, or education experience, please click on the tabs at the top right.\n\nWork Experience\nEdwards Lifesciences | Data Analyst (Intern)\nJune 2024 - September 2024\nUCLA Store | Apple Certified Technician\nAugust 2023 - June 2024, September 2024 - Present\nExodus Escape Room | Escape Room Game Host\nDecember 2020 - August 2022\n\n\nProjects\nReimagining Reviews With Sentence Transformers\nPython, BERTopic, VADER, Scikit-learn | February 2024 - March 2024\nThe Overwatch League: Statistics For Success\nPython, Scikit-learn, SQL, GitHub | May 2023 - July 2023\nThe Role of Sports Statistics in Evaluating College Quarterbacks\nPython, Scikit-learn, SHAP | February 2025 - March 2025\n\n\nEducation\nUniversity of California, Los Angeles (UCLA)\nB.S. in Statistics and Data Science\nExpected Graduation: December 2025"
   },
   {
     "objectID": "education.html",
     "href": "education.html",
     "title": "University of California, Los Angeles (UCLA)",
     "section": "",
-    "text": "UCLA Stats 140XP: Practice of Statistical Consulting"
+    "text": "B.S. in Statistics and Data Science\n\nExpected Graduation: December 2025"
   },
   {
-    "objectID": "education.html#current-courses",
-    "href": "education.html#current-courses",
+    "objectID": "education.html#major",
+    "href": "education.html#major",
     "title": "University of California, Los Angeles (UCLA)",
     "section": "",
-    "text": "UCLA Stats 140XP: Practice of Statistical Consulting"
+    "text": "B.S. in Statistics and Data Science\n\nExpected Graduation: December 2025"
   },
   {
-    "objectID": "education.html#previous-courses",
-    "href": "education.html#previous-courses",
+    "objectID": "education.html#motivation",
+    "href": "education.html#motivation",
     "title": "University of California, Los Angeles (UCLA)",
-    "section": "Previous Courses",
-    "text": "Previous Courses\n\nUniversity of California, Los Angeles\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nSTATS 10\nIntroduction to Statistical Reasoning\nFall 2022, Winter 2023, Spring 2023\n\n\nSTATS 13\nIntroduction to Statistical Methods for Life\nand Health Sciences\nSummer 2022, Fall 2023\n\n\nSTATS 20\nIntroduction to Statistical Programming with R\nSummer 2024\n\n\nSTATS 21\nPython and Other Technologies for Data Science\nSpring 2023\n\n\nSTATS 100B\nIntroduction to Mathematical Statistics\nSummer 2023\n\n\nSTATS 100C\nLinear Models\nSummer 2023\n\n\nSTATS 140XP/ 141XP\nPractice of Statistical Consulting\nWinter 2024,Spring 2024, Fall 2024\n\n\n\n\n\nCalifornia State University, Fullerton\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nMath 115\nCollege Algebra\nFall 2019\n\n\nMath 120\nElementary Statistics\nSpring 2020, Fall 2020, Fall 2024\n\n\nMath 338\nStatistics Applied to Natural Science\nSpring 2021, Fall 2024"
+    "section": "Motivation",
+    "text": "Motivation\nI chose UCLA not only for its beautiful sceneries and lovely weather, but for its ability to compliment my practical knowledge of implementing machine learning models with the statistical theory behind how they function through its rigorous curriculum. While coding skills can be acquired through online courses, a deep understanding of statistical models requires more than syntax, it demands knowledge of underlying assumptions, limitations, and proper applications. At UCLA, I developed the ability to critically assess and implement models with statistical integrity, ensuring that the insights I generate are both valid and impactful. This strong theoretical foundation, combined with hands-on experience, has prepared me to approach real-world data challenges with confidence and precision."
+  },
+  {
+    "objectID": "education.html#relevant-coursework",
+    "href": "education.html#relevant-coursework",
+    "title": "University of California, Los Angeles (UCLA)",
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\n\n\n\n\n\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nSTATS 10\nIntroduction to Statistical Reasoning\nFall 2022\n\n\nSTATS 20\nIntroduction to Statistical Programming with R\nWinter 2023\n\n\nSTATS 100A\nIntroduction to Probability\nFall 2023\n\n\nSTATS 100B\nIntroduction to Mathematical Statistics\nWinter 2024\n\n\nSTATS 101A\nIntroduction to Data Analysis and Regression\nWinter 2024\n\n\nSTATS 101B\nIntroduction to Design and Analysis of Experiments\nSpring 2024\n\n\nSTATS 100C\nLinear Models\nFall 2024\n\n\nSTATS 101C\nIntroduction to Statistical Models and Data Mining\nFall 2024\n\n\nSTATS 102A\nIntroduction to Computational Statistics with R\nWinter 2025\n\n\nSTATS 140XP\nPractice of Statistical Consulting\nWinter 2025"
   },
   {
     "objectID": "projects/project_1.html",
