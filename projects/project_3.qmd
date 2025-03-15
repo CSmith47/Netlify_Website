@@ -1,36 +1,41 @@
 ---
-title: "The Role of Sports Statistics in Evaluating College Quarterbacks"
-image: images/football.png
+title: "The Overwatch League: Statistics For Success"
+subtitle: "May 2023 - July 2023"
 format: html
-
+image: images/overwatch_image.png
 about:
-  template: jolla
-  image: images/football.png
+  template: marquee
+  image: images/overwatch_image.png
   links: 
-    - icon: file-richtext-fill
-      text: Poster
-      url: "Stats_140XP_Final_Poster.pdf"
+    - icon: github
+      text: Github
+      href: https://github.com/CSmith47/OWL_Stats_For_Success
+    - icon: file-text-fill
+      text: Article
+      url: "https://medium.com/@christian6251/the-overwatch-league-statistics-for-success-5b32782d67ee"
 
 toc: false
 ---
 
-### Independent Research supervised by UCLA Faculty 
-data analytics, *October 2024 - current*
+### Project Summary
 
-### *Reseasrch Title*:
-
-### *AI vs. Legal Experts: Speed and Accuracy in Case Analysis*
-
-### *Research Overview*
-I am conducting independent research under the mentorship of UCLA faculty, Dr. Vivian Lew, in collaboration with Tranquility-AI Cybersecurity International and Professor Marta D’Elia. My work explores the transformative potential of artificial intelligence in the analysis of legal documents, with a focus on advancing efficiency and accuracy in the fields of criminal justice and public safety.
+This project is focused around the utilization of machine learning models and model importances to uncover the factors that contribute to wins in the Overwatch League. The goal of this project was to leverage model insights to find the best playstyles, and by consequence the best players, of the Overwatch League. During the project, I demonstrated how the usage of exploratory data analysis and feature importances could help find the best playstyle. With knowledge of the best playstyle, I created a weighted statistic that utilized these feature importances to find the best players within the Overwatch league as a whole, and by role. Ultimately, a motivated player could leverage the information I uncovered to adjust their own playstyle to be more optimal and get better results in game. 
 
 
-The research investigates the comparative performance of AI systems and legal professionals in processing complex case materials. Specifically, it examines differences in speed, comprehension, and accuracy when reviewing legal documents and answering associated questions. This includes assessing whether AI can achieve similar or superior levels of performance compared to human expertise, thereby identifying areas where AI could support or complement traditional legal workflows.
+### My Achievements Upon Completing the Project
 
+While working on the project, I was able to accomplish the following:
 
-Beyond performance metrics, the project addresses broader considerations, such as the ethical and practical implications of integrating AI into legal practices. Key challenges include ensuring fairness and transparency in AI decision-making, maintaining the confidentiality of sensitive information, and understanding how technology can be optimally utilized to support legal professionals without replacing their nuanced judgment and expertise.
+- Uploaded a dataframe with over one million rows into a SQL database for efficient exploration and inquiry into the data
+- Combined, reduced, and simplified large, complex dataframes, such as the one above, to create two more easily-accessible
+dataframes for public use
+- Feature engineered a completely new, weighted statistic to analyze individual player performance and predict game wins and
+losses with high accuracy
+- Constructed a random tree classifier model using the Scikit-learn library to predict map victories based on team and player
+statistics
+- Generated 20 visualizations, 18 of which display statistical variations among teams’ performances and 2 of which show the
+most important factors of the model
+- Penned an in-depth analysis of my findings through an article posted on the Medium platform
 
-
-This research contributes to the growing intersection of technology, data analytics, and the legal profession by offering insights into how AI can streamline time-intensive processes, enhance productivity, and improve accessibility to justice. Ultimately, the findings aim to inform policy development and guide the adoption of AI-driven solutions in legal and public safety domains, fostering innovation while upholding the principles of fairness and accuracy.
-
+Please click on the GitHub and Article links below if you would like to learn more about this project:
 

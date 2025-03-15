@@ -1,16 +1,29 @@
 ---
-title: "Data Analyst"
+title: "Edwards Lifesciences - Data Analyst (Intern)"
+subtitle: "June 2024 – September 2024"
 format: html
 image: images/edwards.jpg
 about:
   template: marquee
   image: images/edwards.jpg
+  links: 
+    - icon: browser-chrome
+      text: Edwards Lifesciences Website
+      href: https://www.edwards.com/
 
 toc: false
 ---
-### **Edwards Lifesciences - Data Analyst (Intern)**
-*June 2024 – September 2024*
+### What is Edwards Lifesciences?
 
-Instruct students in advanced mathematical concepts, fostering both abstract and concrete reasoning skills to enhance their problem-solving abilities. Design and deliver structured lessons that integrate logical thinking, analytical strategies, and the application of prior knowledge to solve complex mathematical challenges.
+With a main headquarters in Irvine, California, Edwards Lifesciences is a global company with one, simple goal, to extend the lives of others. Edwards specializes in technology relating to the structure of the heart, primarily heart valves, which help those with a failing heart, or other heart issues, live longer. With such an important purpose to aid the lives of other fighting cardiovascular diseases, I was thrilled to have the opportunity to assist in their goals. 
 
-Promote intellectual growth by encouraging critical thinking and a deep understanding of mathematical principles. Create an engaging learning environment that inspires curiosity, builds confidence, and supports academic excellence. Collaborate with students to develop effective study habits and cultivate a lifelong appreciation for mathematics.
+### My Achievements at Edwards
+
+While working as an intern at Edwards Lifesciences, I was able to accomplish the following:
+
+- Collaborated with senior data analyst to perform feature selection and dimensionality reduction on 7 datasets from 2 clinical
+studies, merging and comparing data for analysis on a device used across both studies.
+- Extensively utilized R for data manipulation, cleaning, and preparation of large clinical datasets, exporting them to SAS for
+submission to the FDA, ensuring compliance with regulatory standards.
+- Validated the integrity and accuracy of clinical datasets by cross-checking with study documentation, identifying a critical
+discrepancy that had gone unnoticed for 3 years, improving data quality.

@@ -43,14 +43,14 @@ If you would like to learn more about my work experience, projects, or education
 
 
 ### Projects
+The Role of Sports Statistics in Evaluating College Quarterbacks  
+Python, Scikit-learn, SHAP | *February 2025 - March 2025*
+
 [Reimagining Reviews With Sentence Transformers](https://medium.com/python-in-plain-english/reimagining-reviews-with-sentence-transformers-9103c6988f62)  
 Python, BERTopic, VADER, Scikit-learn | *February 2024 - March 2024*
 
 [The Overwatch League: Statistics For Success](https://medium.com/@christian6251/the-overwatch-league-statistics-for-success-5b32782d67ee)  
 Python, Scikit-learn, SQL, GitHub | *May 2023 - July 2023*
-
-The Role of Sports Statistics in Evaluating College Quarterbacks  
-Python, Scikit-learn, SHAP | *February 2025 - March 2025*
 
 
 ### Education

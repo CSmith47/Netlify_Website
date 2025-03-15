@@ -1,16 +1,30 @@
 ---
-title: "Escape Room Game Host"
+title: "Exodus Escape Room - Game Host"
+subtitle: "December 2020 – August 2022"
 format: html
 image: images/exodus.png
 about:
   template: marquee
   image: images/exodus.png
+  links: 
+    - icon: browser-chrome
+      text: Exodus Escape Room Website
+      href: https://exodusescaperoom.com/
 
 toc: false
 ---
-### **Exodus Escape Room — Game Host**
-*December 2020 – August 2022*
 
-Instruct students in advanced mathematical concepts, fostering both abstract and concrete reasoning skills to enhance their problem-solving abilities. Design and deliver structured lessons that integrate logical thinking, analytical strategies, and the application of prior knowledge to solve complex mathematical challenges.
+### What is Exodus Escape Room?
 
-Promote intellectual growth by encouraging critical thinking and a deep understanding of mathematical principles. Create an engaging learning environment that inspires curiosity, builds confidence, and supports academic excellence. Collaborate with students to develop effective study habits and cultivate a lifelong appreciation for mathematics.
+Exodus Escape Room is an escape room business located in California. An escape room is a locked room filled with a series of unique challenges and puzzles that must be solved by the players before a timer runs out. Exodus prioritizes quality customer service and family-friendly puzzles, often hosting large groups to complete their rooms. While an employee there, I often worked in small teams of two or three. I frequently use the collaboration skills I learned in these small teams to work with similarly sized teams when completing a statistical analysis project. Additionally, the quick-thinking and problem-solving nature to quickly deal with props that break before the next group is set to complete their game aided in my projects as well.
+
+### My Achievements at Exodus Escape Room
+
+While working as a game host at Exodus Escape Room, I was able to accomplish the following:
+
+- Managed, oversaw, and aided with up to 3 escape room games simultaneously while on a team of 1-3 members
+- Demonstrated proficiency in the frequent use, maintenance, and training of employees on various technologies, including
+automated puzzles, RFID locks, and audio-visual systems, leading to increased game to game consistency
+- Gained experience in working with and coding Arduinos for troubleshooting and repairing escape room puzzles
+- Earned several 5-star customer reviews on Yelp by delivering personalized and energetic customer service, ensuring
+memorable escape room experiences
