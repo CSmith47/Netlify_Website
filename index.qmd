@@ -7,9 +7,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/CSmith47
-    - icon: linkedin
-      text: LinkedIn
-      url: "https://www.linkedin.com/in/smithc47"
     - text: Email
       url: "mailto:christian6251@gmail.com"
       icon: inbox-fill
@@ -21,7 +18,7 @@ toc: false
 
 ## A Little About Myself
 
-My name is Christian Smith, and I am an upcoming graduate of the UCLA Statistics and Data Science program. I am passionate about leveraging data to solve complex problems, particularly in sports analytics, gaming, and human psychology. My projects reflect these interests, as I believe that working with data I am deeply engaged with leads to the best results.
+My name is Christian Smith, and I am a graduate, with Summa Cum Laude honors, of the UCLA Statistics and Data Science program. I am passionate about leveraging data to solve complex problems, particularly in sports analytics, language processing, and medical care. My internship and project experience reflect these interests as I believe that working with data that is engaging and works towards a greater purpose leads to the best results.
 
 I specialize in applying machine learning models to extract insights and make predictions from large datasets, often requiring extensive data cleaning and preprocessing. With a strong foundation in statistical analysis, I enjoy transforming raw data to be more interpretable, and to seek model improvement.
 
@@ -57,4 +54,4 @@ Python, Scikit-learn, SQL, GitHub | *May 2023 - July 2023*
 
 University of California, Los Angeles (UCLA)  
 B.S. in [Statistics and Data Science](https://statistics.ucla.edu/)  
-*Expected Graduation: December 2025*
+*Graduation: December 2025*

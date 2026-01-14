@@ -16,7 +16,7 @@ toc: false
 ## Major
 
 - B.S. in [Statistics and Data Science](https://statistics.ucla.edu/)  
-- *Expected Graduation: December 2025*
+- *Graduation: December 2025*
 
 ## Motivation
 
@@ -36,6 +36,12 @@ I chose UCLA not only for its beautiful sceneries and lovely weather, but for it
 | STATS 101C   | Introduction to Statistical Models and Data Mining       | *Fall 2024*   |
 | STATS 102A   | Introduction to Computational Statistics with R          | *Winter 2025* |
 | STATS 140XP  | Practice of Statistical Consulting                       | *Winter 2025* |
+| STATS 141XP  | Practice of Statistical Consulting                       | *Spring 2025* |
+| STATS 167    | Introduction to Databases                                | *Spring 2025* |
+| STATS 102B   | Introduction to Computation and Optimzation for Stats    | *Summer 2025* |
+| STATS 112    | Statistics: Window to Understanding Diversity            | *Fall 2025*   |
+| STATS 102C   | Introduction to Monte Carlo Methods                      | *Fall 2025*   |
+
 
 
 
